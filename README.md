@@ -1,45 +1,33 @@
-# NodeJS-roadmap
-# Backend .NET Developer Roadmap
+# Backend NodeJS Developer roadmap
 
-Welcome to the Backend .NET Developemnt Roadmap! This repository is a curated list of the best free Arabic resources for learning backend programming with the .NET stack. Follow the phases and choose the courses that suit your learning style.
+Welcome to the Backend NodeJS Developemnt Roadmap! This repository is a curated list of the best free Arabic resources for learning backend programming with the NodeJS stack. Follow the phases and choose the courses that suit your learning style.
 
 ## Phase 1: Basics
 
-### Database / SQL Server
-- [ITI Recordings](https://youtube.com/playlist?list=PLoRh0POuk1Rw-BZU-DPI6cA_c5W9_2uF_&si=ar2HDGvREar0xoEy)
-- [Eng Eldesoky](https://www.youtube.com/playlist?list=PL1DUmTEdeA6J6oDLTveTt4Z7E5qEfFluE)
-- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6RP_OovpgjoHLkCVaYFy-aj)
+### Database / MongoDB
+- [Mohamed Ramadan Abdallah](https://www.youtube.com/playlist?list=PLd6o9p13Lc5387FWk_GXU0Rh5AhrBGod5)
+- [ITI Recordings](https://youtube.com/playlist?list=PLesfn4TAj57XGGSmVzzpxY69-lha1EWEI&si=wRBwnTiY4XJxJmjq)
+- [Muhammed Essa](https://youtube.com/playlist?list=PLMYF6NkLrdN-XN8xmNeznvIcfL_RySLXd&si=RLyknumDT0Z_VuUA)
+- [Algorithm Academy](https://youtube.com/playlist?list=PLfDx4cQoUNObp1ujQRNooNiadKdlflevM&si=Dld-95oi6NpY6eh8)
 
-### C#
-- [Codographia](https://youtube.com/playlist?list=PLX1bW_GeBRhCU9l7examhVrARmXHHRrLR&si=fb-w5dS3XwPl8N7E)
-- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
-- [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NT0H8J71qe7edwRpAirfqOI)
-- [Code With Saad](https://www.youtube.com/playlist?list=PLZyQU-WOzZF1XNjL5mIqSv0HFnAlfQ8KQ)
-
-### Object-Oriented Programming (OOP)
-- [Codographia](https://youtube.com/playlist?list=PLX1bW_GeBRhAfq0EsDHH4YemBAd6G-H75&si=Doy7YZ6XG9rfsIjA)
-- [Metigator from 7 -> 22](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
-- [Code With Saad](https://www.youtube.com/playlist?list=PLZyQU-WOzZF3s6vZ5ekPcJ1w-7C4Iz2S5)
+### Javascript
+- [Elzero Web School](https://youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&si=cvT_hTDxRyXvhWdK)
+- [Abdelrahman Gamal](https://youtube.com/playlist?list=PLknwEmKsW8OuTqUDaFRBiAViDZ5uI3VcE&si=UBCunhhVCCjr2SWB)
+- [Yehia Tech يحيى تك](https://youtube.com/playlist?list=PL8q8h6vqfkSVRNnlbUk-O9JJ0c9B7mqCp&si=QkaKT0rAwz3qV2Fu)
+- [Tarmeez كاديمية ترميز](https://youtube.com/playlist?list=PLYyqC4bNbCIeLEjcSPO61bsGPKEvYceb0&si=jP0HP-ixJ0PM_2HK)
 
 ## Phase 2: Advanced
 
-### C# Collections (Generic/Non-generic)
-- [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhBbnebNayUDYlQJRBKwZKlo)
-- [Metigator from 23 -> 46](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6SWPbJNpiznp-Ok4A8J_23l)
+### Advanced Javascript
+- [Elzero Web School from 115 -> 188](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
+- [Shadow Coding](https://youtube.com/playlist?list=PLS-MrzRLZtmf_3nji2sHZ66hpga2pWXmR&si=d6vUYc0Nq8A5bIP5)
+- [Tarmeez كاديمية ترميز](https://youtube.com/playlist?list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&si=sIJpo6zLZzXOBrOm)
 
-### Algorithms
-- [Adel Nasim from 24 -> 37](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
-- [KMR Script - More details in Algorithms](https://youtube.com/playlist?list=PLL2zWZTDFZzjxarUL23ydiOgibhRipGYC&si=6ZVmL5yys_zh8qej)
-
-### SOLID Principles
-- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6ThSyydEJTm7xJ3qEwE8Oyu)
-- [Passionate Coders](https://youtube.com/playlist?list=PLsV97AQt78NRT1GmH2EJ-o-2_ILFM9feq&si=EmmWzD2CXg-rYZ1M)
-
-### LINQ
-- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6Sj1Y4xJuJoWCuqleeG2yt6)
-- [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTXdgLMPnCwqriZX1yZ_Kgib)
-- [Hassouna Academy](https://www.youtube.com/playlist?list=PLHIfW1KZRIfnW4RDln5tzw6htvNhnkr7t)
-- [ITI Recordings](https://www.youtube.com/playlist?list=PLesfn4TAj57XPaxXcGQ2mmBGyfvrvV_Aa)
+### Typescript
+- [Elzero Web School](https://youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ&si=74DdynR9MmpwagFF)
+- [Index Academy](https://youtube.com/playlist?list=PLDQ11FgmbqQNDkXDd5SScLPqJM5w4Kgjc&si=MoTrga3CojnbMUv8)
+- [Youssef Abbas](https://youtube.com/playlist?list=PL5gCk5NdNx5_QxWasJ3msGjlpB7hs1-nF&si=hYDiMMkHRjmRN0Sl)
+- [Tarmeez كاديمية ترميز](https://www.youtube.com/watch?v=fIkRHc2plxE)
 
 ## Phase 3: Frameworks
 
