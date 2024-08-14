@@ -15,17 +15,20 @@ Welcome to the Backend NodeJS Developemnt Roadmap! This repository is a curated 
 - [Abdelrahman Gamal](https://youtube.com/playlist?list=PLknwEmKsW8OuTqUDaFRBiAViDZ5uI3VcE&si=UBCunhhVCCjr2SWB)
 - [Yehia Tech يحيى تك](https://youtube.com/playlist?list=PL8q8h6vqfkSVRNnlbUk-O9JJ0c9B7mqCp&si=QkaKT0rAwz3qV2Fu)
 - [Tarmeez كاديمية ترميز](https://youtube.com/playlist?list=PLYyqC4bNbCIeLEjcSPO61bsGPKEvYceb0&si=jP0HP-ixJ0PM_2HK)
+- [ITI Recordings](https://drive.google.com/drive/folders/1a6iiggmVAw1XgO7clIUK3e-oN6B7oB4K)
 
 ## Phase 2: Advanced
 
 ### Advanced Javascript
 - [Elzero Web School from 115 -> 188](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
+- [ITI Recordings](https://drive.google.com/drive/folders/1ZTmACD_hEbpTTk5YUfCx-Ajzs-3SNhtx)
 - [Shadow Coding](https://youtube.com/playlist?list=PLS-MrzRLZtmf_3nji2sHZ66hpga2pWXmR&si=d6vUYc0Nq8A5bIP5)
 - [Tarmeez كاديمية ترميز](https://youtube.com/playlist?list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&si=sIJpo6zLZzXOBrOm)
 
 ### Typescript
 - [Elzero Web School](https://youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ&si=74DdynR9MmpwagFF)
 - [Index Academy](https://youtube.com/playlist?list=PLDQ11FgmbqQNDkXDd5SScLPqJM5w4Kgjc&si=MoTrga3CojnbMUv8)
+- [ITI Recordings](https://drive.google.com/drive/folders/1yey0jdsYlyKJ-CT0JHTkUJpx6ZeLoERM)
 - [Youssef Abbas](https://youtube.com/playlist?list=PL5gCk5NdNx5_QxWasJ3msGjlpB7hs1-nF&si=hYDiMMkHRjmRN0Sl)
 - [Tarmeez كاديمية ترميز](https://www.youtube.com/watch?v=fIkRHc2plxE)
 
