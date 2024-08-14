@@ -4,11 +4,15 @@ Welcome to the Backend NodeJS Developemnt Roadmap! This repository is a curated 
 
 ## Phase 1: Basics
 
-### Database / MongoDB
-- [Mohamed Ramadan Abdallah](https://www.youtube.com/playlist?list=PLd6o9p13Lc5387FWk_GXU0Rh5AhrBGod5)
-- [ITI Recordings](https://youtube.com/playlist?list=PLesfn4TAj57XGGSmVzzpxY69-lha1EWEI&si=wRBwnTiY4XJxJmjq)
-- [Muhammed Essa](https://youtube.com/playlist?list=PLMYF6NkLrdN-XN8xmNeznvIcfL_RySLXd&si=RLyknumDT0Z_VuUA)
-- [Algorithm Academy](https://youtube.com/playlist?list=PLfDx4cQoUNObp1ujQRNooNiadKdlflevM&si=Dld-95oi6NpY6eh8)
+### HTML
+- [Elzero Web School](https://youtu.be/qfPUMV9J5yw?si=jVox6Pud-6ORBPdW)
+- [Abdelrahman Gamal](https://youtu.be/q3yFo-t1ykw?si=LB6lFIV_6urYmmnq)
+
+### CSS & HTML
+- [Elzero Web School](https://youtu.be/qyVkLebgfzY?si=sgKUA8eEEzJsy-yJ)
+- [Codezilla](https://youtu.be/aHzw_8wWl48?si=w1uDDrN4UY2EWk_J)
+- [Yehia Tech يحيى تك](https://youtu.be/Pwatx1n1Ws0?si=o46ZvP6aPAQ7vDWp)
+- [ITI Recordings](https://drive.google.com/drive/folders/1AZ1mug1XDUngeJanFWCcJznaAbQ_2TEX)
 
 ### Javascript
 - [Elzero Web School](https://youtube.com/playlist?list=PLDoPjvoNmBAx3kiplQR_oeDqLDBUDYwVv&si=cvT_hTDxRyXvhWdK)
@@ -25,6 +29,11 @@ Welcome to the Backend NodeJS Developemnt Roadmap! This repository is a curated 
 - [Shadow Coding](https://youtube.com/playlist?list=PLS-MrzRLZtmf_3nji2sHZ66hpga2pWXmR&si=d6vUYc0Nq8A5bIP5)
 - [Tarmeez كاديمية ترميز](https://youtube.com/playlist?list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&si=sIJpo6zLZzXOBrOm)
 
+### Javascript Projects
+- [Elzero Web School](https://youtube.com/playlist?list=PLDoPjvoNmBAz7_BgzvNcOaE-m_SnE4jiT&si=rsV4Mht4Z3yZ_EY_)
+- [Codezilla](https://youtu.be/PRBO40Lpa18?si=SuUQTvX2T5THFbL5)
+- [Abdelrahman Gamal](https://youtube.com/playlist?list=PLknwEmKsW8Otkp3ax3DWDWQufKy4RirWO&si=MFSyEYFscEiX2mlg)
+
 ### Typescript
 - [Elzero Web School](https://youtube.com/playlist?list=PLDoPjvoNmBAy532K9M_fjiAmrJ0gkCyLJ&si=74DdynR9MmpwagFF)
 - [Index Academy](https://youtube.com/playlist?list=PLDQ11FgmbqQNDkXDd5SScLPqJM5w4Kgjc&si=MoTrga3CojnbMUv8)
@@ -32,7 +41,13 @@ Welcome to the Backend NodeJS Developemnt Roadmap! This repository is a curated 
 - [Youssef Abbas](https://youtube.com/playlist?list=PL5gCk5NdNx5_QxWasJ3msGjlpB7hs1-nF&si=hYDiMMkHRjmRN0Sl)
 - [Tarmeez كاديمية ترميز](https://www.youtube.com/watch?v=fIkRHc2plxE)
 
-## Phase 3: Frameworks
+## Phase 3: Database
+
+### MongoDB / Mongoose
+- [Mohamed Ramadan Abdallah](https://www.youtube.com/playlist?list=PLd6o9p13Lc5387FWk_GXU0Rh5AhrBGod5)
+- [ITI Recordings](https://youtube.com/playlist?list=PLesfn4TAj57XGGSmVzzpxY69-lha1EWEI&si=wRBwnTiY4XJxJmjq)
+- [Muhammed Essa](https://youtube.com/playlist?list=PLMYF6NkLrdN-XN8xmNeznvIcfL_RySLXd&si=RLyknumDT0Z_VuUA)
+- [Algorithm Academy](https://youtube.com/playlist?list=PLfDx4cQoUNObp1ujQRNooNiadKdlflevM&si=Dld-95oi6NpY6eh8)
 
 ### Entity Framework Core
 - [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv)
