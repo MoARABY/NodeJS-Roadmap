@@ -60,7 +60,7 @@ Welcome to the Backend NodeJS Developemnt Roadmap! This repository is a curated 
 - [CodeZone from 1 to 3](https://www.youtube.com/playlist?list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2)
 - [KMR script from 1 to 6](https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp)
 - [Takhareef Mobarmeg from 24 to 37](https://www.youtube.com/playlist?list=PLkzDzmo9y3VG_pByjuxE7uuLYvmWgfBub)
-- [Index Academy](https://www.youtube.com/playlist?list=PLfDx4cQoUNOZd0O-lHBZxWJCaIfPMI-UH)
+- [Index Academy](https://www.youtube.com/playlist?list=PLDQ11FgmbqQOXkTN68DM82xvrhjvjU82j)
 - [Emam Academy](https://www.youtube.com/playlist?list=PLGhZWewM_75LQf3KvHo6HHSclmDyDazl7)
 
 ## Phase 5: ExpressJS
@@ -69,4 +69,6 @@ Welcome to the Backend NodeJS Developemnt Roadmap! This repository is a curated 
 - [CodeZone from 4 to 5](https://www.youtube.com/playlist?list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2)
 - [KMR script from 7 to 13](https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp)
 - [Takhareef Mobarmeg from 1 to 23](https://www.youtube.com/playlist?list=PLkzDzmo9y3VG_pByjuxE7uuLYvmWgfBub)
-- [Algorithm Academy](https://www.youtube.com/playlist?list=PLDQ11FgmbqQOXkTN68DM82xvrhjvjU82j)
+- [Algorithm Academy](https://www.youtube.com/playlist?list=PLfDx4cQoUNOZd0O-lHBZxWJCaIfPMI-UH)
+
+
