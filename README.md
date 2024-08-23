@@ -21,6 +21,11 @@ Welcome to the Backend NodeJS Developemnt Roadmap! This repository is a curated 
 - [Tarmeez كاديمية ترميز](https://youtube.com/playlist?list=PLYyqC4bNbCIeLEjcSPO61bsGPKEvYceb0&si=jP0HP-ixJ0PM_2HK)
 - [ITI Recordings](https://drive.google.com/drive/folders/1a6iiggmVAw1XgO7clIUK3e-oN6B7oB4K)
 
+### GIT & GITHUB
+- [Elzero Web School](https://youtube.com/playlist?list=PLDoPjvoNmBAw4eOj58MZPakHjaO3frVMF&si=Z4YueVEN97GeVHx5)
+- [Metigetor](https://youtube.com/playlist?list=PL4n1Qos4Tb6R4guGC4oX_PZVt8E8XpvqE&si=jJjdKlRdJswgqPwa)
+- [Ghareeb Elshaikh](https://youtu.be/fDkR0TDR9dI?si=FipeWmK5SvtUAnzh)
+
 ## Phase 2: Advanced
 
 ### Advanced Javascript
@@ -49,32 +54,19 @@ Welcome to the Backend NodeJS Developemnt Roadmap! This repository is a curated 
 - [Muhammed Essa](https://youtube.com/playlist?list=PLMYF6NkLrdN-XN8xmNeznvIcfL_RySLXd&si=RLyknumDT0Z_VuUA)
 - [Algorithm Academy](https://youtube.com/playlist?list=PLfDx4cQoUNObp1ujQRNooNiadKdlflevM&si=Dld-95oi6NpY6eh8)
 
-### Entity Framework Core
-- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6QZkbTWJx7wHqEABP8Pg6uv)
-- [ITI Recordings](https://www.youtube.com/playlist?list=PLesfn4TAj57WisNpNGLPCS1donYYAEQSI)
-- [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTVSVQ5k3UUMgj3RP8Qczwve)
-- [DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-cHV28v-EqWinveTTAos8Pp)
+## Phase 4: NodeJS
 
-### ASP.NET Core MVC
-- [Metigator](https://www.youtube.com/playlist?list=PL4n1Qos4Tb6S-uLNUmrgCJiQXfXi5KjRJ)
-- [ITI Recordings - Eng/Christiene Zareef (Highly Recommended)](https://drive.google.com/drive/u/0/folders/1HZwQYm-ME578H8ANkv9w4167NDCRWecF?fbclid=IwAR1lCISZUSWI-3cMJC7Y22yCw0iMgn_0Ra2VuSVnLTCaBWV-13e-CFUbKNg)
-- [Ahmed Mohamady](https://www.youtube.com/playlist?list=PLqPejUavRNTWqGYP-f1pHkbLYdbqi_Uhg)
+### NodeJS Core Modules
+- [CodeZone from 1 to 3](https://www.youtube.com/playlist?list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2)
+- [KMR script from 1 to 6](https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp)
+- [Takhareef Mobarmeg from 24 to 37](https://www.youtube.com/playlist?list=PLkzDzmo9y3VG_pByjuxE7uuLYvmWgfBub)
+- [Index Academy](https://www.youtube.com/playlist?list=PLfDx4cQoUNOZd0O-lHBZxWJCaIfPMI-UH)
+- [Emam Academy](https://www.youtube.com/playlist?list=PLGhZWewM_75LQf3KvHo6HHSclmDyDazl7)
 
-### ASP.NET Core API
-- [ITI Recordings - Eng Christine Zareef (Highly Recommended)](https://youtube.com/playlist?list=PLesfn4TAj57VzTrrGkOKWbNOOrUCdSQGo&si=IH-GyfrRzYhF-QXY)
-- [Passionate Coders (Still recording)](https://www.youtube.com/playlist?list=PLsV97AQt78NQ8E7cEqovH0zLYRJgJahGh)
+## Phase 5: ExpressJS
 
-## Phase 4: Extra
-
-### API Secure with JWT Authentication
-- [DevCreed](https://www.youtube.com/playlist?list=PL62tSREI9C-eYNE1Pyw0yv1tETs5V8WGd)
-
-### SignalR for Real-Time Applications
-- [ITI Recordings](https://www.youtube.com/playlist?list=PLesfn4TAj57WLtiWtHP1Xkel7WD6QHvpe)
-
-### Microsoft Azure Cloud Services
-- [ITI Recordings](https://youtube.com/playlist?list=PLesfn4TAj57WWPBzcEIGEfwzCPpw27-Lu&si=JjZf80QVb0XGxXAc)
-
-### Software Containerization & Docker
-- [Passionate Coders](https://www.youtube.com/playlist?list=PLsV97AQt78NTJTBGKI0GE3eJc2Q_SC2B-)
-- [Codographia](https://www.youtube.com/playlist?list=PLX1bW_GeBRhCS2TJvGgu38P-Rf9aNXKZD)
+### Deal With Express
+- [CodeZone from 4 to 5](https://www.youtube.com/playlist?list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2)
+- [KMR script from 7 to 13](https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp)
+- [Takhareef Mobarmeg from 1 to 23](https://www.youtube.com/playlist?list=PLkzDzmo9y3VG_pByjuxE7uuLYvmWgfBub)
+- [Algorithm Academy](https://www.youtube.com/playlist?list=PLDQ11FgmbqQOXkTN68DM82xvrhjvjU82j)
