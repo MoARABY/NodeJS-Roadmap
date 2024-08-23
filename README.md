@@ -32,7 +32,7 @@ Welcome to the Backend NodeJS Developemnt Roadmap! This repository is a curated 
 - [Elzero Web School from 115 -> 188](https://www.youtube.com/playlist?list=PLCInYL3l2AajqOUW_2SwjWeMwf4vL4RSp)
 - [ITI Recordings](https://drive.google.com/drive/folders/1ZTmACD_hEbpTTk5YUfCx-Ajzs-3SNhtx)
 - [Shadow Coding](https://youtube.com/playlist?list=PLS-MrzRLZtmf_3nji2sHZ66hpga2pWXmR&si=d6vUYc0Nq8A5bIP5)
-- [Tarmeez كاديمية ترميز](https://youtube.com/playlist?list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&si=sIJpo6zLZzXOBrOm)
+- [Tarmeez اكاديميه ترميز](https://youtube.com/playlist?list=PLYyqC4bNbCIdvviLNbvYKfvHqszFPnUkj&si=sIJpo6zLZzXOBrOm)
 
 ### Javascript Projects
 - [Elzero Web School](https://youtube.com/playlist?list=PLDoPjvoNmBAz7_BgzvNcOaE-m_SnE4jiT&si=rsV4Mht4Z3yZ_EY_)
@@ -71,4 +71,45 @@ Welcome to the Backend NodeJS Developemnt Roadmap! This repository is a curated 
 - [Takhareef Mobarmeg from 1 to 23](https://www.youtube.com/playlist?list=PLkzDzmo9y3VG_pByjuxE7uuLYvmWgfBub)
 - [Algorithm Academy](https://www.youtube.com/playlist?list=PLfDx4cQoUNOZd0O-lHBZxWJCaIfPMI-UH)
 
+### Express With MongoDB
+- [CodeZone session 6](https://www.youtube.com/playlist?list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2)
+- [KMR script from 14 to 18](https://www.youtube.com/playlist?list=PLL2zWZTDFZzgxxD66mv95I8hC0pby5bdp)
+
+### Express Beginners Projects
+- [Tarmeez اكاديميه ترميز](https://youtu.be/LG7ff9TVWjM?si=-YYPU1Cfw6tmDlzT)
+- [Yehia Tech يحيى تك](https://youtu.be/DURM6yft8RU?si=R0yiF01v5nMhMBDW)
+- [Dev Ali](https://youtu.be/6fBgH9nYC_s?si=mK6lY_82tSvlxsZS)
+- [Courses 4 Arab || اتعلم فى ساعة](https://www.youtube.com/playlist?list=PLeWmXrh00479LgmvKAdU8WV2nRXqX4ley)
+
+## Phase 5: Security
+
+### JWT
+- [Index Academy](https://www.youtube.com/playlist?list=PLDQ11FgmbqQO6KEhqLzT_USha4ZysXY2C)
+- [Tarmeez اكاديميه ترميز](https://youtu.be/eFRDZ2_A53k?si=_vBMoE4RRF9hNZGq)
+- [Yehia Tech يحيى تك](https://youtu.be/laMhqQdiCGw?si=iiOhjw-IDTXGnVMm)
+- [CodeZone from 7 to 8](https://www.youtube.com/playlist?list=PLQtNtS-WfRa8OF9juY3k6WUWayMfDKHK2)
+- [Takhareef Mobarmeg from 27 to 30](https://www.youtube.com/playlist?list=PLkzDzmo9y3VGIEj8SH3XHB85jYKggFTnw)
+
+### OAuth
+- [Algorithm Academy](https://www.youtube.com/playlist?list=PLfDx4cQoUNOZ6BVx8IuvTdrxiRQhDHmPK)
+- [Code With Zeyad](https://youtu.be/GsqkTEvnC8s?si=WPpIK5p8Y_rVfc-j)
+
+### Rate limit
+- [Youssef Abbas](https://www.youtube.com/watch?v=g2GUBz-Trls)
+- [Index Academy](https://youtu.be/_xXPi6I9zNc?si=F0N8_MKt7gYYXxCR)
+- [Ahmed Abdelfatah](https://youtu.be/4ElGmJrwxCw?si=OhYgNItOscqypd0l)
+
+### Platform Security
+- [Takhareef Mobarmeg](https://youtu.be/PHLaDzQR58A?si=wJPIqAfMJg7Zxedp)
+- [Index Academy](https://youtu.be/gN09pcsq3hE?si=4iyqI1S_FK7pqJ8V)
+
+## Phase 6: File Upload
+
+- [Youssef Abbas](https://www.youtube.com/watch?v=j9ibqDLmKZs)
+- [Coding with Josef](https://www.youtube.com/watch?v=rblbMjrcVqg)
+
+- ## Phase 7: Send Emails
+
+- [Youssef Abbas](https://www.youtube.com/watch?v=AGErsRWd-6Y)
+- [DeepWave Technology](https://youtu.be/EtDiliMBRLg?si=fZHb1g_v3RNkhI2C)
 
