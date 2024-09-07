@@ -106,10 +106,16 @@ Welcome to the Backend NodeJS Developemnt Roadmap! This repository is a curated 
 ## Phase 6: File Upload
 
 - [Youssef Abbas](https://www.youtube.com/watch?v=j9ibqDLmKZs)
+- [Takhareef Mobarmeg from 32 t0 33](https://www.youtube.com/watch?v=j9ibqDLmKZs)
 - [Coding with Josef](https://www.youtube.com/watch?v=rblbMjrcVqg)
 
-- ## Phase 7: Send Emails
+## Phase 7: Send Emails
 
 - [Youssef Abbas](https://www.youtube.com/watch?v=AGErsRWd-6Y)
+- [TensorCode](https://youtu.be/GCOObKQGOgE?si=N00oOBSmRdJTmqB1)
 - [DeepWave Technology](https://youtu.be/EtDiliMBRLg?si=fZHb1g_v3RNkhI2C)
 
+## Phase 8: Payment Gateway
+
+- [WebDev](https://youtu.be/VtpaQqLaMD8?si=MuGE6_6bjkbCCpOS)
+- [Takhareef Mobarmeg from 38 t0 39](https://www.youtube.com/playlist?list=PLkzDzmo9y3VETa2XvIch29djB47v4zJQS)
